@@ -33,6 +33,3 @@ use the model to make predictions
 yolo task=classify mode=predict  model=/home/nvidia07/final_project/runs/classify/train4/weights/best.pt source=/home/nvidia07/final_project/runs/classify/predict/test07/final_project/runs/classify/train4/weights/best.pt 
 ```
 
-export the model
-```bash
-yolo export model=
