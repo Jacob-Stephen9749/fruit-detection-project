@@ -4,7 +4,8 @@
  detects if apples or bananas are ripe rotten or not ripe
 
 multiple images of what ai thinks the fruit is
-(direct image link here)
+![val_batch2_labels](https://github.com/user-attachments/assets/d63494c4-94a7-4b14-b290-3520c259eaa8)
+
 
 ## Overview
 The AI is first trained to reconize the diffrence between the diffrent fruits and quality of them. after thit the run 2 diffrent commands through YOLOv8 to detct the given fruit and weather it is ripe or not. this is done through either a live feed or a random provided image. 
